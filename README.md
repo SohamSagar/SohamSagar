@@ -27,7 +27,7 @@
 </body>
 </html>
 
-# :woman_technologist: About Me :
+# About Me :
 
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gujarat,India.
 
@@ -37,7 +37,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I learn new things.
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <!DOCTYPE html>
 <html>
   </hr></hr>
@@ -58,7 +58,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </body>
 </html>
 
-# :fire: My Stats :
+# My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SohamSagar&theme=dark&background=000000)](https://git.io/streak-stats)
 
